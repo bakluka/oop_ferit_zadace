@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DZ2
+namespace ClassLibraryDZ3
 {
     public class Episode
     {

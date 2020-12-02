@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace DZ2
+namespace ClassLibraryDZ3
 {
-    class FilePrinter : IPrinter
+    public class FilePrinter : IPrinter
     {
         string filename;
         public FilePrinter(string filename)

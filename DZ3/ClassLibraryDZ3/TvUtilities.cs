@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace DZ2
+namespace ClassLibraryDZ3
 {
-    static class TvUtilities
+    public static class TvUtilities
     {
         public static Episode[] LoadEpisodesFromFile(string file)
         {

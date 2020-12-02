@@ -1,0 +1,8 @@
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\bin\Debug\netcoreapp3.0\ClassLibraryDZ3.deps.json
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\bin\Debug\netcoreapp3.0\ClassLibraryDZ3.dll
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\bin\Debug\netcoreapp3.0\ClassLibraryDZ3.pdb
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\obj\Debug\netcoreapp3.0\ClassLibraryDZ3.csprojAssemblyReference.cache
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\obj\Debug\netcoreapp3.0\ClassLibraryDZ3.AssemblyInfoInputs.cache
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\obj\Debug\netcoreapp3.0\ClassLibraryDZ3.AssemblyInfo.cs
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\obj\Debug\netcoreapp3.0\ClassLibraryDZ3.dll
+C:\Users\Luke\Desktop\oop_ferit_zadace\DZ3\ClassLibraryDZ3\obj\Debug\netcoreapp3.0\ClassLibraryDZ3.pdb

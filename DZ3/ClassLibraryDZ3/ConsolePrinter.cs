@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DZ2
+namespace ClassLibraryDZ3
 {
-    class ConsolePrinter : IPrinter
+    public class ConsolePrinter : IPrinter
     {
         public void Print(string to_print)
         {

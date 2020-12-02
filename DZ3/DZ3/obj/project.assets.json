@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ClassLibraryDZ3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ClassLibraryDZ3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibraryDZ3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibraryDZ3/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibraryDZ3/ClassLibraryDZ3.csproj",
+      "msbuildProject": "../ClassLibraryDZ3/ClassLibraryDZ3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ClassLibraryDZ3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Luke\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Luke\\Desktop\\oop_ferit_zadace\\DZ3\\DZ3\\DZ3.csproj",
+      "projectName": "DZ3",
+      "projectPath": "C:\\Users\\Luke\\Desktop\\oop_ferit_zadace\\DZ3\\DZ3\\DZ3.csproj",
+      "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luke\\Desktop\\oop_ferit_zadace\\DZ3\\DZ3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Luke\\Desktop\\oop_ferit_zadace\\DZ3\\ClassLibraryDZ3\\ClassLibraryDZ3.csproj": {
+              "projectPath": "C:\\Users\\Luke\\Desktop\\oop_ferit_zadace\\DZ3\\ClassLibraryDZ3\\ClassLibraryDZ3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

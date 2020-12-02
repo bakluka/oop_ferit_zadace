@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DZ2
+namespace ClassLibraryDZ3
 {
-    class Season
+    public class Season
     {
         int number;
         Episode[] episodes;

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DZ3/1.0.0": {
+        "dependencies": {
+          "ClassLibraryDZ3": "1.0.0"
+        },
+        "runtime": {
+          "DZ3.dll": {}
+        }
+      },
+      "ClassLibraryDZ3/1.0.0": {
+        "runtime": {
+          "ClassLibraryDZ3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryDZ3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

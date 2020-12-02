@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ3", "DZ3.csproj", "{CB3D6CDB-B1A6-493E-9A76-2648D34A2F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryDZ3", "..\ClassLibraryDZ3\ClassLibraryDZ3.csproj", "{E311DFE8-082A-4CE6-96CF-DE4DB412145E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB3D6CDB-B1A6-493E-9A76-2648D34A2F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3D6CDB-B1A6-493E-9A76-2648D34A2F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3D6CDB-B1A6-493E-9A76-2648D34A2F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3D6CDB-B1A6-493E-9A76-2648D34A2F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E311DFE8-082A-4CE6-96CF-DE4DB412145E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E311DFE8-082A-4CE6-96CF-DE4DB412145E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E311DFE8-082A-4CE6-96CF-DE4DB412145E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E311DFE8-082A-4CE6-96CF-DE4DB412145E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6E0091-9E7E-4514-8921-CA4430F9DDD8}
+	EndGlobalSection
+EndGlobal

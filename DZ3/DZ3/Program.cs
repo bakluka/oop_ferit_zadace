@@ -1,13 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-
-namespace DZ2
+using ClassLibraryDZ3;
+namespace DZ3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string fileName = "shows.tv";  // House md <3 
+            string fileName = "shows.tv";
             string outputFileName = "storage.tv";
 
             IPrinter printer = new ConsolePrinter();
@@ -15,6 +14,7 @@ namespace DZ2
 
             Episode[] episodes = TvUtilities.LoadEpisodesFromFile(fileName);
             Season season = new Season(1, episodes);
+
             printer.Print(season.ToString());
             for (int i = 0; i < season.Length; i++)
             {

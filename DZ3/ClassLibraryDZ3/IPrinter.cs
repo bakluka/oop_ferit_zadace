@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DZ2
+namespace ClassLibraryDZ3
 {
-    interface IPrinter
+    public interface IPrinter
     {
         void Print(string to_print); 
     }
